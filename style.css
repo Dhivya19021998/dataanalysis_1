@@ -120,7 +120,8 @@ button{
 
 }
 
-.red{
-    background: coral;
+.active_img{
+    border: solid 2px gray;
 }
+
 
